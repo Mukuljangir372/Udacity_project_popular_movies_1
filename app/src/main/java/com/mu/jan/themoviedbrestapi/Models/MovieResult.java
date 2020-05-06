@@ -1,7 +1,6 @@
-package com.mu.jan.themoviedbrestapi;
+package com.mu.jan.themoviedbrestapi.Models;
 
 import com.google.gson.annotations.SerializedName;
-import com.mu.jan.themoviedbrestapi.Models.Movie;
 
 import java.util.List;
 

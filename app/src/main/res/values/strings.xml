@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">The Movie DB Rest Api</string>
     <string name="api_key">035864fe0df9f27d5a701a2f0c490b19</string>
+
+    <string name="description">description</string>
+    <string name="loading">Loading</string>
+    <string name="about">About</string>
+
+    <string name="rating">%1d</string>
+    <string name="toast_error_while_loading">Error while loading</string>
+
 </resources>
