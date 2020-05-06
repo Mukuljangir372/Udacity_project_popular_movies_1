@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">The Movie DB Rest Api</string>
+    <string name="api_key">035864fe0df9f27d5a701a2f0c490b19</string>
+</resources>
